@@ -7,14 +7,14 @@
 
 ### and then push using the remote name
 ```git push <name>```
-
 ```git remote add snackmachine https://github.com/aguetler25/ccc_snackmachine```
 
 ### Ueberpruefen der Einstellungen
-```git remote -v```
-
-> snackmachine    https://github.com/aguetler25/ccc_snackmachine (fetch)
-> snackmachine    https://github.com/aguetler25/ccc_snackmachine (push)
+```
+git remote -v
+snackmachine    https://github.com/aguetler25/ccc_snackmachine (fetch)
+snackmachine    https://github.com/aguetler25/ccc_snackmachine (push)
+```
 
 ### Und auf das Remote-Repository "pushen"
 ```git push --set-upstream snackmachine master```
