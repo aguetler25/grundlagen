@@ -4,10 +4,7 @@
 
 ### add remote git repository
 ```git remote add <name> <url>```
-
-### and then push using the remote name
-```git push <name>```
-```git remote add snackmachine https://github.com/aguetler25/ccc_snackmachine```
+```z.B.: git remote add snackmachine https://github.com/aguetler25/ccc_snackmachine```
 
 ### Ueberpruefen der Einstellungen
 ```
